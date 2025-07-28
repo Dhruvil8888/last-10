@@ -46,3 +46,44 @@ pip install -r requirements.txt
 
 # Launch Streamlit app
 streamlit run app.py
+```
+
+---
+
+## 🌐 Deployment on Streamlit Cloud
+
+1. Push your project to a public GitHub repository.
+2. Go to [https://streamlit.io/cloud](https://streamlit.io/cloud)
+3. Click **“New app”** and connect your repo.
+4. Select your repo and `app.py` as the entry point.
+5. Your app will be live at `https://<your-app-name>.streamlit.app`
+
+---
+
+## 📸 Screenshots
+
+| Dashboard View | Prediction View |
+|----------------|-----------------|
+| ![Dashboard](assets/dashboard.png) | ![Prediction](assets/prediction.png) |
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.  
+Feel free to use, modify, and distribute with credit.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+Please fork the repo and submit a pull request.
+
+---
+
+## 📬 Contact
+
+Created by **[Your Name]**  
+📧 Email: yourname@example.com  
+🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
